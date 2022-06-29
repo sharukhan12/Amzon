@@ -7,4 +7,7 @@ System.out.println("sss");
 private void ss() {
 System.out.println("wrtui");
 }
+private void s1() {
+System.out.println("sdfghjk");
+}
 }
